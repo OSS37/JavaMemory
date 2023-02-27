@@ -46,7 +46,6 @@ public class Main {
         System.out.println(person.toString());
 
     }
-
     public static void changePerson2 (Person person) {
         Person person1 = new Person("Ilya","Lagutenko");
     }
@@ -54,5 +53,5 @@ public class Main {
         person.setName("Ilya");
         person.setSurname("Lagutenko");
     }
-    }
+}
 
